@@ -1,2 +1,2 @@
-# ESMEDataAnalytics
-GW EMSE Data Science Course
+# CSCI 6444 Big Data and Analytics
+GWU SEAS COMPUTER SCIENCE
